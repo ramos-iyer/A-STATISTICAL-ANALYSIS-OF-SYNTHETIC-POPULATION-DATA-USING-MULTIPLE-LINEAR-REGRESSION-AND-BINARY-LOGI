@@ -90,13 +90,13 @@ haven, caret, foreign
 There are 2 main folders and 3 files in the root directory that are necessary for the project:
 
 1. DataSet:
-- synthetic_population_dataset.sav: This file contains the entire synthetic population dataset in SPSS format.
+  - synthetic_population_dataset.sav: This file contains the entire synthetic population dataset in SPSS format.
 
 2. Statistics.r: This file contains the code for Data Preparation and Transformations.
 
 3. Cleaned Dataset:
-- OWN GUN BLR.sav: This file contains the dataset that is specific for application for Binary Logistic Regression.
-- WORK HRS MLR.sav: This file contains teh dataset that is specific for application of Multiple Linear Regression.
+  - OWN GUN BLR.sav: This file contains the dataset that is specific for application for Binary Logistic Regression.
+  - WORK HRS MLR.sav: This file contains teh dataset that is specific for application of Multiple Linear Regression.
 
 4. OwnGunBinLogReg.spv: This file contains the implementation of Binary Logistic Regression in SPSS format.
 
