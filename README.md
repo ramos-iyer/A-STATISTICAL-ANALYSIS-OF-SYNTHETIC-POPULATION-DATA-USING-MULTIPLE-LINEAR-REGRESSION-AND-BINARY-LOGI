@@ -70,6 +70,13 @@ The 'WorkHrsMulLinReg.spv' and 'OwnGunBinLogReg.spv' are SPSS files and needs to
 
 ### Screenshots
 
+![Screenshot1](/images/1.png)
+![Screenshot2](/images/2.png)
+![Screenshot3](/images/3.png)
+![Screenshot4](/images/4.png)
+![Screenshot5](/images/5.png)
+![Screenshot6](/images/6.png)
+
 <a id='config'></a>
 
 ### System Configuration Steps
